@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:ID;datatype:int,name:CertName;datatype:string,name:CertProducer;datatype:string,name:CertType;datatype:string,name:CertValidDate;datatype:string,name:identificationNumber;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:ID;datatype:int,name:TypeOfAccomplishments;datatype:string,name:TypeOfReward;datatype:string,name:IdentificationNmber;datatype:string" />
+</info>

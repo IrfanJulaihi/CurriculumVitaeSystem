@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:ID;datatype:int,name:Mobile No;datatype:int,name:Email;datatype:string,name:Address;datatype:string,name:PostCode;datatype:int,name:State;datatype:string,name:Identification Number;datatype:string" />
+	<infoitem key="UD_RecordsetReference" value="name:ID;datatype:int,name:NameOfReferencePerson;datatype:string,name:Organization;datatype:string,name:ContactNo;datatype:string,name:Identification Number;datatype:string" />
+	<infoitem key="UD_RecordSelfInfo" value="name:ID;datatype:int,name:Identification Number;datatype:string,name:First Name;datatype:string,name:Last Name;datatype:string,name:DateOfBirth;datatype:date,name:Age;datatype:int,name:Marital Status;datatype:string,name:Blood Type;datatype:string" />
+	<infoitem key="UD_RecordsetEdu" value="name:ID;datatype:int,name:Education Level;datatype:string,name:Program;datatype:string,name:University;datatype:string,name:CGPA;datatype:string,name:Identification Number;datatype:string" />
+	<infoitem key="UD_RecordsetExtraKo" value="name:ID;datatype:int,name:TypeOfClubs;datatype:string,name:TypeOfUniformBody;datatype:string,name:TypeOfSports;datatype:string,name:Identification Number;datatype:string" />
+	<infoitem key="UD_RecordsetExperience" value="name:ID;datatype:int,name:Internship;datatype:string,name:Duration Intern;datatype:string,name:Previous Job;datatype:string,name:Duration PrevJob;datatype:string,name:Current Position;datatype:string,name:Project Involved;datatype:string,name:Area of Expertise;datatype:string,name:Year of Expertise;datatype:string,name:Identification Number;datatype:string" />
+	<infoitem key="UD_RecordsetContactInfo" value="name:ID;datatype:int,name:TypeOfAccomplishments;datatype:string,name:TypeOfReward;datatype:string,name:IdentificationNmber;datatype:string" />
+	<infoitem key="UD_RecordsetCnctInfo" value="name:ID;datatype:int,name:Mobile No;datatype:int,name:Email;datatype:string,name:Address;datatype:string,name:PostCode;datatype:int,name:State;datatype:string,name:Identification Number;datatype:string" />
+	<infoitem key="UD_RecordsetCertification" value="name:ID;datatype:int,name:CertName;datatype:string,name:CertProducer;datatype:string,name:CertType;datatype:string,name:CertValidDate;datatype:string,name:identificationNumber;datatype:string" />
+</info>

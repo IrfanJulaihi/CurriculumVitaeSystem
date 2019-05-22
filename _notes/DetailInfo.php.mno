@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:ID;datatype:int,name:TypeOfClubs;datatype:string,name:TypeOfUniformBody;datatype:string,name:TypeOfSports;datatype:string,name:IdentficationNumber;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:ID;datatype:int,name:Education Level;datatype:string,name:Program;datatype:string,name:University;datatype:string,name:CGPA;datatype:string,name:Identification Number;datatype:string" />
+	<infoitem key="UD_Recordset3" value="name:ID;datatype:int,name:TypeOfClubs;datatype:string,name:TypeOfUniformBody;datatype:string,name:TypeOfSports;datatype:string,name:Identification Number;datatype:string" />
+	<infoitem key="UD_Experience" value="name:ID;datatype:int,name:Internship;datatype:string,name:Duration Intern;datatype:string,name:Previous Job;datatype:string,name:Duration PrevJob;datatype:string,name:Current Position;datatype:string,name:Project Involved;datatype:string,name:Area of Expertise;datatype:string,name:Year of Expertise;datatype:string,name:Identification Number;datatype:string" />
+	<infoitem key="UD_CntctInfo" value="name:ID;datatype:int,name:Mobile No;datatype:int,name:Email;datatype:string,name:Address;datatype:string,name:PostCode;datatype:int,name:State;datatype:string,name:Identification Number;datatype:string" />
+	<infoitem key="UD_RecordsetCert" value="name:ID;datatype:int,name:CertName;datatype:string,name:CertProducer;datatype:string,name:CertType;datatype:string,name:CertValidDate;datatype:string,name:identificationNumber;datatype:string" />
+	<infoitem key="UD_RecordsetAchievement" value="name:ID;datatype:int,name:TypeOfAccomplishments;datatype:string,name:TypeOfReward;datatype:string,name:IdentificationNmber;datatype:string" />
+	<infoitem key="UD_RecordsetRefer" value="name:ID;datatype:int,name:NameOfReferencePerson;datatype:string,name:Organization;datatype:string,name:ContactNo;datatype:string,name:Identification Number;datatype:string" />
+</info>
